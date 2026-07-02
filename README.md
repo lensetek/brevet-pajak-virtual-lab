@@ -1,6 +1,12 @@
 # 🇮🇩 Brevet Pajak AB — Virtual Lab
 
-Simulasi perpajakan Indonesia untuk pembelajaran Brevet Pajak A & B. Berisi **105 file PDF** dokumen simulasi, studi kasus, soal, dan kunci jawaban untuk 14 bab.
+Virtual Lab ini adalah bagian dari **Course Brevet AB** yang diselenggarakan oleh **PT. Asadel Liamsindo Teknologi** — sebuah program pelatihan perpajakan Indonesia yang dirancang untuk membekali peserta dengan pemahaman teoritis sekaligus keterampilan praktis dalam menyelesaikan siklus perpajakan secara menyeluruh.
+
+Kurikulum mencakup 14 bab dari Ketentuan Umum Perpajakan (KUP) hingga Studi Kasus Terpadu, diperkaya dengan **pendekatan Agentic AI** untuk menyusun laporan pajak, merekonsiliasi data, dan menyimulasikan pengisian SPT — menjembatani kompetensi perpajakan klasik dengan kecerdasan buatan generatif.
+
+Berisi **105 file PDF** dokumen simulasi, studi kasus, soal, dan kunci jawaban untuk 14 bab.
+
+> 📘 **Daftar Course Brevet AB sekarang:** [asadel.co.id/courses/brevet-ab](https://asadel.co.id/courses/brevet-ab)
 
 ## Struktur
 
